@@ -1,0 +1,173 @@
+﻿id,V02,V03,V04,V05,V06,V07,V08,V09,V10,V11,V12,V13,V14,V15,V16,V17,V18,V19,V20,V21,V22
+50,Estado de México,Estado de México,LEM,1,4,Si,iOS,Windows,10/08/02,Mujer,158,45,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",50,Regular,50,1,3,3
+16,Tlaxcala,Puebla,LED,1,5 o más,No,iOS,Mac,22/05/02,Mujer,168,70.5,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla",10,Bien,20,2,5,3
+43,León,Monterrey,Médico Cirujano,2,5 o más,Si,iOS,Mac,17/12/01,Mujer,170,65,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",50,Regular,20,2,5,1
+49,Nuevo Laredo,Monterrey,IDM,1,3,Si,Android,Windows,30/09/02,Hombre,170,64,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile",40,Nada,30,2,5,3
+58,Estado de mexico,Estado de México,IE,1,3,Si,Android,Windows,06/05/02,Hombre,177,80,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",30,Nada,50,2,4,3
+53,Guadalajara,Guadalajara,Emprendimiento,2,5 o más,Si,iOS,Mac,18/10/02,Mujer,172,65,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",40,Regular,80,2,5,5
+47,Estado de mexico,Estado de México,IIS,0,3,Si,Android,Windows,23/11/01,Hombre,190,88,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Takis, Nacho",10,Nada,100,2,5,2
+71,Córdoba,Puebla,Diseño,1,3,Si,iOS,Windows,23/09/00,Mujer,160,70,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",100,Bien,100,2,5,3
+23,Monterrey,Monterrey,IBT,2,3,No,iOS,Windows,04/07/02,Hombre,180,74,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",30,Nada,20,3,4,3
+24,Monterrey,Monterrey,IIS,1,4,No,iOS,Windows,22/10/01,Hombre,174,64,a veces cada mes,Act-II (microondas),"Mantequilla, Con chile",40,Regular,20,3,5,2
+64,Hermosillo,Monterrey,IFI,2,4,Si,Android,Windows,24/02/02,Hombre,174,86,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla",15,Bien,50,3,5,4
+26,Monterrey,Monterrey,ICDM,2,5 o más,No,Android,Windows,06/10/01,Hombre,181,90,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",30,Regular,50,3,5,5
+31,Ciudad de México,Estado de México,IMT,1,4,Si,iOS,Windows,24/04/99,Hombre,178,72,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",50,Regular,50,3,4,4
+57,Xalapa,Veracruz,IMT,1,4,Si,Android,Windows,19/07/01,Hombre,172,60,cada 15 dias,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",50,Muy bien,100,3,5,4
+15,CDMX,Santa Fe,IIS,2,4,Si,Android,Windows,18/12/01,Hombre,173,65,cada 15 dias,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",75,Nada,100,3,5,4
+28,Metepec,Toluca,IBT,1,3,Si,Android,Windows,19/04/02,Mujer,167,53,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",100,Nada,150,3,5,5
+10,Monterrey,Monterrey,IDM,2,2,Si,Android,Windows,08/10/01,Mujer,160,80,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Queso",20,Regular,200,3,4,4
+17,Guadalajara,Guadalajara,IIS,0,2,Si,iOS,Mac,05/05/02,Hombre,178,81,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",25,Regular,30,3,5,5
+2,Guadalajara,Guadalajara,LEM,3,4,Si,iOS,Mac,01/10/01,Mujer,167,57,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",25,Regular,40,3,5,4
+39,Chiahuahua,Chihuahua,LEM,1,5 o más,Si,iOS,Mac,09/05/01,Hombre,185,85,a veces cada mes,Pops de Barcel,"Caramelo, Mantequilla, Con chile, Queso",10,Bien,30,3,5,3
+68,Hermosillo,Sonora Norte,IIS,3,5 o más,Si,iOS,Mac,07/06/01,Mujer,165,57,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",70,Regular,25,5,5,4
+56,Toluca,Monterrey,IMD,1,2,Si,iOS,Windows,31/08/02,Mujer,158,65,cada 15 dias,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",30,Regular,30,5,5,5
+12,Hermosillo,Sonora Norte,IMT,2,5 o más,Si,Android,Windows,09/03/02,Mujer,170,60,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",50,Regular,30,5,3,3
+29,Monterrey,Monterrey,IFI,1,4,Si,Android,Windows,07/05/01,Hombre,170,63,cada 15 dias,Palomitas de cine,"Mantequilla, sal",15,Regular,30,5,3,2
+32,"Coatzacoalcos, Ver.",Puebla,LAF,2,5 o más,No,Android,Windows,01/09/02,Mujer,165,62,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",20,Muy bien,40,5,5,4
+19,Metepec,Toluca,BGB,1,4,Si,Android,Windows,10/04/02,Hombre,180,75,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",15,Regular,50,5,5,5
+22,Monterrey,Monterrey,IIS,0,2,Si,iOS,Mac,05/01/02,Mujer,168,75,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",20,Regular,50,5,5,4
+66,CDMX,Ciudad de Mexico,BGB,1,4,Si,Android,Windows,09/03/02,Hombre,175,85,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla",30,Nada,50,5,4,2
+18,Toluca,Santa Fe,LAF,2,4,Si,iOS,Mac,07/02/02,Hombre,167,54,a veces cada mes,Palomitas de cine,"Mantequilla, Con chile, Queso",30,Regular,50,5,5,3
+54,Puebla,Puebla,LDE,2,5 o más,Si,Android,Windows,23/01/02,Hombre,170,80,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile",40,Nada,50,5,5,4
+63,Querétaro ,Queretaro,LCPF,2,5 o más,Si,iOS,Mac,02/01/01,Mujer,156,54,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso, Takis",50,Regular,50,5,5,4
+60,Monterrey,Monterrey,LC,1,4,Si,iOS,Mac,12/01/02,Mujer,162,52,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",100,Regular,50,5,5,3
+8,Chihuahua,Chihuahua,LIT,5,4,Si,Android,Mac,23/09/02,Hombre,175,68,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",50,Regular,50,5,5,3
+3,Hidalgo del Parral,Chihuahua,IMT,1,4,Si,Android,Windows,02/05/02,Hombre,170,55,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",30,Nada,50,5,5,5
+67,Monterrey,Monterrey,LTM,2,4,Si,iOS,Mac,03/11/97,Hombre,172,68,dos veces a la semana,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",50,Bien,10,5,5,3
+55,Estado de México,Estado de México,IIS,1,3,Si,iOS,Mac,09/09/02,Hombre,187,73,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",50,Regular,20,10,5,3
+52,Tuxpan,Puebla,Economía,1,4,Si,iOS,Mac,01/07/02,Mujer,165,59,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile",50,Regular,40,10,5,3
+20,Metepec,Toluca,BGB,1,4,Si,iOS,Mac,06/02/02,Mujer,163,78,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",15,Regular,50,10,5,4
+9,Querétaro,Queretaro,LD,0,3,Si,iOS,Mac,23/01/02,Mujer,152,41.5,cada 15 dias,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso, con takis",25,Muy bien,50,10,5,4
+13,Monterrey,Monterrey,LED,2,3,Si,iOS,Mac,24/08/01,Mujer,169,56,a veces cada mes,Palomitas de cine,Caramelo,60,Regular,50,10,3,2
+65,Monterrey,Monterrey,INA,1,2,Si,iOS,Mac,24/02/02,Hombre,172,73,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",70,Nada,50,10,5,5
+11,Aguascalientes,Monterrey,IQ,1,3,Si,iOS,Mac,23/02/02,Mujer,153,50,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",40,Bien,55,10,4,2
+36,Guadalajara,Guadalajara,IIS,1,5 o más,Si,iOS,Windows,18/07/02,Hombre,180,77,a veces cada mes,Palomitas de cine,"Mantequilla, Con chile, Queso, Takis",50,Regular,60,15,4,3
+42,Mazatlán,Monterrey,IDM,2,5 o más,Si,Android,Windows,07/05/01,Hombre,181,72,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",60,Regular,40,20,5,3
+73,Edo Mex,Estado de México,IMT,2,3,Si,iOS,Windows,02/01/02,Hombre,180,74,a veces cada mes,Palomitas de cine,"Mantequilla, Queso",25,Regular,70,50,4,3
+74,Monterrey,Monterrey,LAET,2,1,Si,iOS,Mac,09/11/00,Hombre,184,99,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",50,Nada,50,1,4,3
+45,Chihuahua,Guadalajara,Animación y arte digital,1,4,Si,iOS,Mac,03/08/02,Mujer,159,55,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile",50,Regular,25,1,5,4
+59,monterrey,Monterrey,Ing Mecanico,2,5 o más,No,iOS,Windows,30/10/01,Hombre,176,76.2,dos veces a la semana,Palomitas de cine,"Mantequilla, Con chile",40,Regular,100,1.5,5,4
+1,MTY,Monterrey,IE,0,2,Si,iOS,Mac,28/04/01,Hombre,168,80,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla",30,Nada,50,10,3,2
+34,Ecuador,Estado de México,ISS,4,5 o más,Si,Android,Windows,19/11/00,Mujer,160,72,cada 15 dias,Palomitas de cine,"Caramelo, Mantequilla, Queso",60,Regular,50,12,4,4
+38,"Atlacomulco, Estado de México",Queretaro,Ingeniería en alimentos,2,5 o más,Si,iOS,Mac,16/08/02,Mujer,157,53,cada 15 dias,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",20,Bien,4,3,4,3
+35,Monterrey,Monterrey,IM,1,3,No,Android,Windows,10/07/01,Hombre,188,80,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile",15,Regular,50,2,5,4
+25,Monterrey,Monterrey,IBT,3,4,Si,iOS,Windows,23/02/02,Hombre,174,66,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",20,Nada,20,2,5,2
+41,Hermosillo,Sonora Norte,IMT,1,4,Si,iOS,Windows,26/04/02,Hombre,180,65,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso, Takis, Doritos, Chips",20,Muy bien,50,2,4,4
+51,Mty,Monterrey,IDM,2,5 o más,No,iOS,Mac,26/10/01,Hombre,180,81,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile",50,Nada,100,2,5,3
+69,Edo. de Mexico,Estado de México,IM,1,2,Si,iOS,Windows,23/06/01,Hombre,180,65,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso, sal",20,Regular,20,2,3,4
+40,Ciudad de México,Ciudad de Mexico,BGB,2,5 o más,Si,iOS,Windows,06/02/98,Hombre,190,86,a veces cada mes,Act-II (microondas),"Mantequilla, Queso",30,Regular,50,2.5,5,5
+44,"Cuautitlán Izcalli, Edomex.",Estado de México,IM,1,4,Si,Android,Windows,04/07/02,Hombre,178,61,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso, Light y naturales",20,Muy bien,20,3,5,3
+7,Toluca,Toluca,LCPF,2,5 o más,Si,iOS,Windows,17/01/02,Mujer,160,54,cada 15 dias,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",20,Regular,30,3,5,5
+27,Monterrey,Monterrey,LAD,1,3,Si,iOS,Windows,02/02/02,Hombre,177,70,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",15,Regular,30,3,4,3
+72,García ,Monterrey,IFI,1,4,No,Android,Windows,07/04/01,Hombre,173,57,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla",15,Regular,40,3,4,4
+62,Monterrey,Monterrey,Comunciacion,5,3,Si,iOS,Mac,29/01/02,Mujer,165,61,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Queso",15,Regular,50,3,4,4
+5,Chihuahua,Chihuahua,IIS,1,4,Si,Android,Mac,22/05/02,Hombre,178,62,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",17,Bien,40,3,5,4
+21,Monterrey,Monterrey,IDS,3,5 o más,No,iOS,Mac,23/10/01,Hombre,170,68,cada 15 dias,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",49,Regular,80,3,5,3
+6,Villahermosa,Monterrey,IQ,2,2,Si,Android,Windows,04/03/02,Mujer,158,68,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso, con oreo",50,Nada,100,3,5,5
+70,CDMX,Estado de México,IIS,4,5 o más,Si,iOS,Windows,15/12/01,Hombre,171,64,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",65,Muy bien,50,3,5,4
+61,Cd. Madero,Tampico,LIN,2,4,Si,iOS,Mac,26/06/01,Mujer,160,57,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso, DORITOS, TAKIS",70,Regular,80,5,5,3
+33,Estado de México ,Estado de México,IMT,2,5 o más,Si,iOS,Windows,12/03/02,Hombre,180,70,cada 15 dias,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",70,Muy bien,100,5,5,4
+48,Quito,Guadalajara,LPS,2,1,Si,Android,Windows,07/03/01,Hombre,173,55,a veces cada mes,Palomitas de cine,Mantequilla,50,Regular,5,5,5,5
+37,Querétaro,Queretaro,IM,1,4,Si,Android,Windows,16/09/02,Mujer,154,51,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",20,Regular,20,5,5,5
+4,Hermosillo,Sonora Norte,LAF,3,5 o más,No,iOS,Mac,14/02/02,Hombre,175,66,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",60,Regular,300,5,5,4
+30,Chihuahua,Chihuahua,IBT,0,3,Si,Android,Windows,24/01/02,Mujer,168,70,a veces cada mes,Act-II (microondas),"Caramelo, Mantequilla, Con chile, Queso",40,Bien,30,5,5,5
+14,Monterrey,Monterrey,LDI,0,3,Si,iOS,Windows,01/03/99,Hombre,175,52,a veces cada mes,Palomitas de cine,Caramelo,20,Bien,15,5,4,4
+46,Ciudad de México ,Ciudad de Mexico,LAF,0,3,Si,iOS,Mac,31/07/01,Hombre,177,86,a veces cada mes,Palomitas de cine,"Caramelo, Mantequilla, Con chile, Queso",30,Bien,15,5,5,3
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
